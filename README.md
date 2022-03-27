@@ -1,6 +1,7 @@
 
 🙋‍♂️ Hi, I 'm Abhinav Tiwari
-👀I 'm interested in coding
+
+-👀I 'm interested in coding
 -🌱 I'm currently learning c++
 I'm currently pursuing Bachelor degree from
 Computer science branch
