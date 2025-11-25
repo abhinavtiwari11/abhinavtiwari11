@@ -44,20 +44,6 @@ I focus on writing clean, maintainable code and translating ideas into productio
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavtiwari11&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavtiwari11&layout=compact&theme=tokyonight" height="180" />
-</p>
 
 
 
-## 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtiwari11&theme=tokyonight" />
-</p>
-
-## ✨ About Me
-epositories and drop a star if you like my work!**  
