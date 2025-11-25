@@ -59,16 +59,9 @@ I love crafting **clean, tested, maintainable** code and turning complex ideas i
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,postgres,mongodb,git,docker,kubernetes,postman&theme=light" />
 </p>
 
----
 
-# 📊 GitHub Analytics (Animated)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavtiwari11&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavtiwari11&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
 
----
 
 # 🔥 Streak Stats
 
