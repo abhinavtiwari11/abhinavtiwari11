@@ -24,9 +24,19 @@ I focus on writing clean, maintainable code and translating ideas into productio
 ---
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/abhinavtiwari11" target="https://www.linkedin.com/in/abhinav-tiwari-4619061aa/"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/abhinav-tiwari-4619061aa/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/abhinavtiwari11" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://leetcode.com/u/abhinavtiwari22032002/" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+</a>
+</p>
 
 ---
 
