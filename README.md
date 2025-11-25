@@ -68,13 +68,9 @@ I love crafting **clean, tested, maintainable** code and turning complex ideas i
 
 ---
 
-# 🐍 Contribution Snake (Animated)
 
-<p align="center">
-  <img src="https://github.com/abhinavtiwari11/abhinavtiwari11/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
-> **Note:** To enable this animation, tell me and I’ll generate the files + workflow for you.
+
 
 ---
 
