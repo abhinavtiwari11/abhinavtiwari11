@@ -8,11 +8,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&center=true&vCenter=true&width=600&size=25&lines=Full+Stack+Java+Developer;ReactJS+Frontend+Developer;API+%26+Database+Optimization+Expert;
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&center=true&vCenter=true&width=600&size=25&lines=Full+Stack+Java+Developer;ReactJS+Frontend+Developer;API+%26+Database+Optimization+Expert;Clean+Code+%26+High+Performance;Always+Learning+New+Technologies">
 </p>
-
----
-
 ## 🧑‍💻 About Me
 
 I’m **Abhinav Tiwari**, a passionate Full Stack Developer with expertise in **Java, Spring Boot, ReactJS, MySQL**, and building scalable, high-performance applications.
